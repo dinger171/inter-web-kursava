@@ -1,0 +1,26 @@
+.green {
+  color: green;
+  font-style: italic;
+  font-size: 30px;
+}
+.center_green {
+  text-align: center;
+  justify-content: center;
+  color: green;
+  font-style: italic;
+  font-size: 30px;
+}
+#center {
+  display: grid;
+  place-items: center;
+}
+.red {
+  color: tomato; /* tomato is better than red */
+}
+.podkresleno {
+  text-decoration: underline;
+}
+.black {
+  color: black;
+  font-style: italic;
+}
